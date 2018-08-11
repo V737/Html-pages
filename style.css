@@ -1,0 +1,56 @@
+h1 {color: #FF00FF}
+	body{
+	background-color: rgb(30,30,30);
+}
+h2{
+	font-size: 40px;
+	color: #228B22
+}
+
+p{
+	color: #FF4500
+}
+img{
+width: 120px;
+height: 120px;
+border: double;
+}
+#header {
+	background-image: url('images/forest.png');
+   padding: 200px;
+   background-size: cover;
+   text-align: left
+   border-radius: 3px;
+   border: 3px solid black;
+}
+
+#header	h1 {
+	color: white;
+}
+
+.animal{
+	text-align: center;
+	border: 3px solid black;
+	margin : 10px;
+	border-radius: 10px;
+}
+ #footer a{
+	background-color: #FF00FF;
+	padding: 2px;
+	border-radius: 5px;
+	border: 3px solid black;
+	
+}
+.animal1{
+	text-align: center;
+	border: 3px solid black;
+	margin : 20px;
+	border-radius: 10px;
+}
+
+
+ #footer p { 
+	color: #228B22;
+	text-align: left;
+	
+}
